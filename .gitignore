@@ -1,5 +1,7 @@
 .config/
 drive/
-mlflow.db
 mlruns/
+mlflow.db
 sample_data/
+__pycache__/
+.ipynb_checkpoints/
